@@ -25,7 +25,7 @@ Up-to-date list of papers and relevant material of Metaverse techniques.
 
 
 ## Virtual Reality
-
+- [Authentic Volumetric Avatars from a Phone Scan](https://dl.acm.org/doi/abs/10.1145/3528223.3530143), 2022
 
 ## Mixed Reality
 
