@@ -22,9 +22,500 @@ Up-to-date list of papers and relevant material of Metaverse techniques.
 
 
 ## Augmented Reality
+- [2D versus 3D: A Comparison of Needle Navigation Concepts between Augmented Reality Display Devices], VR, 2022
+- [A Comparison of Desktop and Augmented Reality Scenario Based Training Authoring Tools], ISMAR, 2019
+- [A Comparison of Desktop and Augmented Reality Scenario Based Training Authoring Tools], VR, 2019
+- [A Comparison of Spatial Augmented Reality Predictive Cues and their Effects on Sleep Deprived Users], VR, 2022
+- [A Context-Aware Technical Information Manager for Presentation in Augmented Reality], VR, 2019
+- [A Hybrid RTK GNSS and SLAM Outdoor Augmented Reality System], VR, 2019
+- [A Mobile Augmented Reality Approach for Creating Dynamic Effects with Controlled Vector Fields], VR, 2019
+- [A Tangible Spherical Proxy for Object Manipulation in Augmented Reality], VR, 2020
+- [A Taxonomy of Interaction Techniques for Immersive Augmented Reality based on an Iterative Literature Review], ISMAR, 2021
+- [A User-Based Comparison of Two Augmented Reality Glasses], VR, 2018
+- [An Augmented Reality Motion Planning Interface for Robotics], VR, 2019
+- [An Educational Augmented Reality Application for Elementary School Students Focusing on the Human Skeletal System], VR, 2019
+- [An improved augmented-reality method of inserting virtual objects into the scene with transparent objects], VR, 2022
+- [An Intelligent Augmented Reality Training Framework for Neonatal Endotracheal Intubation], ISMAR, 2020
+- [An Investigation of Head Motion and Perceptual Motion Cues&apos; Influence on User Depth Perception of Augmented Reality Neurosurgical Simulators], VR, 2018
+- [Analyzing Pedestrian Behavior in Augmented Reality - Proof of Concept], VR, 2020
+- [ARCHIE: A User-Focused Framework for Testing Augmented Reality Applications in the Wild], VR, 2020
+- [ARENA: The Augmented Reality Edge Networking Architecture], ISMAR, 2021
+- [ARPads: Mid-air Indirect Input for Augmented Reality], ISMAR, 2020
+- [Asking ethical questions in research using immersive virtual and augmented reality technologies with children and youth], VR, 2017
+- [Assessing Upper Extremity Motor Dysfunction Using an Augmented Reality Game], ISMAR, 2017
+- [Attention Guiding Using Augmented Reality in Complex Environments], VR, 2018
+- [Augmented Chair: Exploring the Sittable Chair in Immersive Virtual Reality for Seamless Interaction], VR, 2019
+- [Augmented Reality Driving Using Semantic Geo-Registration], VR, 2018
+- [Augmented Reality Floods and Smoke Smartphone App Disaster Scope utilizing Real-time Occlusion], VR, 2019
+- [Augmented Reality for Maritime Navigation Assistance - Egocentric Depth Perception in Large Distance Outdoor Environments], VR, 2021
+- [Augmented Reality Interfaces for Semi-Autonomous Drones], VR, 2019
+- [Augmented Reality Map Navigation with Freehand Gestures], VR, 2019
+- [Augmented Reality System for Aiding Mild Alzheimer Patients and Caregivers], VR, 2018
+- [Augmented Reality Visualization of Joint Movements for Physical Examination and Rehabilitation], VR, 2018
+- [Augmented reality: Principles and practice], VR, 2017
+- [Augmented Reality-Based Personalized Virtual Operative Anatomy for Neurosurgical Guidance and Training], VR, 2018
+- [Blending Shadows: Casting Shadows in Virtual and Real using Occlusion-Capable Augmented Reality Near-Eye Displays], ISMAR, 2021
+- [Body Weight Perception of Females using Photorealistic Avatars in Virtual and Augmented Reality], ISMAR, 2020
+- [Can Retinal Projection Displays Improve Spatial Perception in Augmented Reality], ISMAR, 2020
+- [CatARact: Simulating Cataracts in Augmented Reality], ISMAR, 2020
+- [Collaborative Augmented Reality on Smartphones via Life-long City-scale Maps], ISMAR, 2020
+- [Comparison in Depth Perception between Virtual Reality and Augmented Reality Systems], VR, 2019
+- [Content Presentation on 3D Augmented Reality Windshield Displays in the Context of Automated Driving], VR, 2022
+- [Danger from the Deep: A Gap Affordance Study in Augmented Reality], VR, 2019
+- [DeepTaste: Augmented Reality Gustatory Manipulation with GAN-Based Real-Time Food-to-Food Translation], ISMAR, 2019
+- [Depth Perception in Augmented Reality: The Effects of Display, Shadow, and Position], VR, 2022
+- [Design and Assessment of a Collaborative 3D Interaction Technique for Handheld Augmented Reality], VR, 2018
+- [Design of collaborative 3D user interfaces for virtual and augmented reality], VR, 2017
+- [Design Recommendations for Augmented Reality Games for Objective Assessment of Upper Extremity Motor Dysfunction], VR, 2019
+- [Design, Assembly, Calibration, and Measurement of an Augmented Reality Haploscope], VR, 2019
+- [Designing for Depth Perceptions in Augmented Reality], ISMAR, 2017
+- [Distance Judgments to On- and Off-Ground Objects in Augmented Reality], VR, 2019
+- [Dorsal and Ventral Pathways Implications in an Augmented Reality Environment], VR, 2019
+- [DreamStore: A Data Platform for Enabling Shared Augmented Reality], VR, 2021
+- [Effect of Full Body Avatar in Augmented Reality Remote Collaboration], VR, 2019
+- [Embodying an Extra Virtual Body in Augmented Reality], VR, 2019
+- [Empathic AuRea: Exploring the Effects of an Augmented Reality Cue for Emotional Sharing Across Three Face-to-Face Tasks], VR, 2022
+- [Empirical Study of Non-Reversing Magic Mirrors for Augmented Reality Anatomy Learning], ISMAR, 2017
+- [Enhanced Geometric Techniques for Point Marking in Model-Free Augmented Reality], ISMAR, 2019
+- [Enhanced Geometric Techniques for Point Marking in Model-Free Augmented Reality], VR, 2019
+- [Enhancing First-Person View Task Instruction Videos with Augmented Reality Cues], ISMAR, 2020
+- [Enhancing Visitor Experience or Hindering Docent Roles: Attentional Issues in Augmented Reality Supported Installations], ISMAR, 2020
+- [Enlightening Patients with Augmented Reality], VR, 2020
+- [Ensuring Safety in Augmented Reality from Trade-off Between Immersion and Situation Awareness], ISMAR, 2018
+- [Evaluating Mixed and Augmented Reality: A Systematic Literature Review (2009-2019)], ISMAR, 2020
+- [Evaluating Visual Cues for Future Airborne Surveillance Using Simulated Augmented Reality Displays], VR, 2022
+- [Evaluation of Environment-Independent Techniques for 3D Position Marking in Augmented Reality], VR, 2018
+- [Evaluation of Hand Gesture Annotation in Remote Collaboration Using Augmented Reality], VR, 2018
+- [Evaluation of labelling layout methods in augmented reality], VR, 2017
+- [Exploring non-reversing magic mirrors for screen-based augmented reality systems], VR, 2017
+- [Exploring Presence, Avatar Embodiment, and Body Perception with a Holographic Augmented Reality Mirror], VR, 2022
+- [Exploring Pseudo-Weight in Augmented Reality Extended Displays], VR, 2022
+- [Exploring Stereovision-Based 3-D Scene Reconstruction for Augmented Reality], VR, 2019
+- [Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays], VR, 2020
+- [Extending a User Involvement Tool with Virtual and Augmented Reality], VR, 2019
+- [Facade Proposals for Urban Augmented Reality], ISMAR, 2017
+- [GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions], VR, 2019
+- [Gesture-based augmented reality annotation], VR, 2017
+- [Glanceable AR: Evaluating Information Access Methods for Head-Worn Augmented Reality], VR, 2020
+- [Ground Camera Images and UAV 3D Model Registration for Outdoor Augmented Reality], VR, 2019
+- [Guideline and Tool for Designing an Assembly Task Support System Using Augmented Reality], ISMAR, 2020
+- [Guiding People in Complex Indoor Environments Using Augmented Reality], VR, 2018
+- [Hands-Free Interaction for Augmented Reality in Vascular Interventions], VR, 2018
+- [High-Fidelity Interaction for Virtual and Augmented Reality], VR, 2018
+- [HySAR: Hybrid material rendering by an optical see-through head-mounted display with spatial augmented reality projection], VR, 2017
+- [Improve accessibility of virtual and augmented reality for people with balance impairments], VR, 2017
+- [In-Situ Labeling for Augmented Reality Language Learning], VR, 2019
+- [Interacting with Distant Objects in Augmented Reality], VR, 2018
+- [Interactive and Multimodal-based Augmented Reality for Remote Assistance using a Digital Surgical Microscope], VR, 2019
+- [Investigating Visualization Techniques for Observing a Group of Virtual Reality Users Using Augmented Reality], VR, 2019
+- [Investigation of Size Variations in Optical See-through Tangible Augmented Reality], ISMAR, 2021
+- [Is Any Room Really OK? The Effect of Room Size and Furniture on Presence, Narrative Engagement, and Usability During a Space-Adaptive Augmented Reality Game], ISMAR, 2019
+- [Is It Cold in Here or Is It Just Me? Analysis of Augmented Reality Temperature Visualization for Computer-Mediated Thermoception], ISMAR, 2019
+- [Lucid Virtual/Augmented Reality (LVAR) Integrated with an Endoskeletal Robot Suit: StillSuit: A new framework for cognitive and physical interventions to support the ageing society], VR, 2019
+- [MagicHand: Interact with IoT Devices in Augmented Reality Environment], VR, 2019
+- [Manipulating 3D Anatomic Models in Augmented Reality: Comparing a Hands-Free Approach and a Manual Approach], ISMAR, 2019
+- [Measuring the Perceived Three-Dimensional Location of Virtual Objects in Optical See-Through Augmented Reality], ISMAR, 2021
+- [Memory Task Performance Across Augmented and Virtual Reality], VR, 2018
+- [Mirror, Mirror on My Phone: Investigating Dimensions of Self-Face Perception Induced by Augmented Reality Filters], ISMAR, 2021
+- [Monocular Visual-Inertial State Estimation for Mobile Augmented Reality], ISMAR, 2017
+- [Non-Visual Cues for View Management in Narrow Field of View Augmented Reality Displays], ISMAR, 2019
+- [Notes on virtual and augmented reality (Keynote)], VR, 2017
+- [Object Detection in the Context of Mobile Augmented Reality], ISMAR, 2020
+- [ObserVAR: Visualization System for Observing Virtual Reality Users using Augmented Reality], ISMAR, 2019
+- [Occlusion Matting: Realistic Occlusion Handling for Augmented Reality Applications], ISMAR, 2017
+- [On Sharing Physical Geometric Space between Augmented and Virtual Reality Environments], VR, 2019
+- [Optical see-through vs. spatial augmented reality simulators for medical applications], VR, 2017
+- [Optimization and Manipulation of Contextual Mutual Spaces for Multi-User Virtual and Augmented Reality Interaction], VR, 2020
+- [Performance Envelopes of in-Air Direct and Smartwatch Indirect Control for Head-Mounted Augmented Reality], VR, 2018
+- [PeriText: Utilizing Peripheral Vision for Reading Text on Augmented Reality Smart Glasses], VR, 2019
+- [Pointing and Selection Methods for Text Entry in Augmented Reality Head Mounted Displays], ISMAR, 2019
+- [Prioritization and static error compensation for multi-camera collaborative tracking in augmented reality], VR, 2017
+- [Prompting Techniques for Guidance and Action Assistance Using Augmented-Reality Smart-Glasses], VR, 2018
+- [Real Time 3D Magnetic Field Visualization Based on Augmented Reality], VR, 2019
+- [Robot Supported Virtual and Augmented Reality], VR, 2018
+- [SceneAR: Scene-based Micro Narratives for Sharing and Remixing in Augmented Reality], ISMAR, 2021
+- [Semantic Labeling and Object Registration for Augmented Reality Language Learning], VR, 2019
+- [Separation, Composition, or Hybrid? - Comparing Collaborative 3D Object Manipulation Techniques for Handheld Augmented Reality], ISMAR, 2021
+- [Stimulating the Human Visual System Beyond Real World Performance in Future Augmented Reality Displays], ISMAR, 2020
+- [Story CreatAR: a Toolkit for Spatially-Adaptive Augmented Reality Storytelling], VR, 2021
+- [Studying Exocentric Distance Perception in Optical See-Through Augmented Reality], ISMAR, 2019
+- [Supporting Medical Auxiliary Work: The Central Sterile Services Department as a Challenging Environment for Augmented Reality Applications], ISMAR, 2020
+- [Tangible and Visible 3D Object Reconstruction in Augmented Reality], ISMAR, 2019
+- [Teach Me a Story: an Augmented Reality Application for Teaching History in Middle School], VR, 2018
+- [Text Presentation for Augmented Reality Applications in Dual-Task Situations], VR, 2019
+- [Texturing of augmented reality character based on colored drawing], VR, 2017
+- [The Effect of Avatar Appearance on Social Presence in an Augmented Reality Remote Collaboration], VR, 2019
+- [The Effect of Narrow Field of View and Information Density on Visual Search Performance in Augmented Reality], VR, 2019
+- [The Effects of Object Shape, Fidelity, Color, and Luminance on Depth Perception in Handheld Mobile Augmented Reality], ISMAR, 2020
+- [The Influence of Environmental Lighting on Size Variations in Optical See-through Tangible Augmented Reality], VR, 2022
+- [The Influence of Size in Augmented Reality Telepresence Avatars], VR, 2019
+- [The Matter of Attention and Motivation - Understanding Unexpected Results from Auditory Localization Training Using Augmented Reality], VR, 2019
+- [The Potential of Augmented Reality for Digital Twins: A Literature Review], VR, 2022
+- [The Role of Viewing Distance and Feedback on Affordance Judgments in Augmented Reality], VR, 2020
+- [Touch the Wall: Comparison of Virtual and Augmented Reality with Conventional 2D Screen Eye-Hand Coordination Training Systems], VR, 2020
+- [Transferability of Spatial Maps: Augmented Versus Virtual Reality Training], VR, 2018
+- [Understanding Users&apos; Preferences for Augmented Reality Television], ISMAR, 2019
+- [Using augmented reality to improve dismounted operators&apos; situation awareness], VR, 2017
+- [Validating the Benefits of Glanceable and Context-Aware Augmented Reality for Everyday Information Access Tasks], VR, 2022
+- [Walking Your Virtual Dog: Analysis of Awareness and Proxemics with Simulated Support Animals in Augmented Reality], ISMAR, 2019
 
 
 ## Virtual Reality
+- [[DC] Auto-focus Augmented Reality Eyeglasses for both Real World and Virtual Imagery], VR, 2019
+- [[DC] Multi-user (Social) Virtual Reality Commnunication], VR, 2019
+- [6 Degrees-of-freedom manipulation with a transparent], VR, 2017
+- [A Collaborative Virtual Reality Escape Room with Passive Haptics], VR, 2019
+- [A Comparative Analysis of 3D User Interaction: How to Move Virtual Objects in Mixed Reality], VR, 2020
+- [A Comparative Study of Orientation Support Tools in Virtual Reality Environments with Virtual Teleportation], ISMAR, 2020
+- [A Demonstration of ShareVR: Co-Located Experiences for Virtual Reality Between HMD and Non-HMD Users], VR, 2018
+- [A Non-Stationary Office Desk Substitution for Desk-Based and HMD-Projected Virtual Reality], VR, 2019
+- [A Physics-based Virtual Reality Simulation Framework for Neonatal Endotracheal Intubation], VR, 2020
+- [A preliminary study of users&apos; experiences of meditation in virtual reality], VR, 2017
+- [A Research Framework for Virtual-Reality Neurosurgery Based on Open-Source Tools], VR, 2019
+- [A Structural Equation Modeling Approach to Understand the Relationship between Control], VR, 2020
+- [A Study in Virtual Reality on (Non-)Gamers&apos; Attitudes and Behaviors], VR, 2019
+- [A Study of Cybersickness and Sensory Conflict Theory Using a Motion-Coupled Virtual Reality System], VR, 2018
+- [A study on the use of an immersive virtual reality store to investigate consumer perceptions and purchase behavior toward non-standard fruits and vegetables], VR, 2017
+- [A system for creating virtual reality content from make-believe games], VR, 2017
+- [A Virtual Reality Simulator to Detect Acrophobia in Work-at-Height Situations], VR, 2018
+- [Above Surface Interaction for Multiscale Navigation in Mobile Virtual Reality], VR, 2020
+- [Acceptance and Effectiveness of a Virtual Reality Public Speaking Training], ISMAR, 2019
+- [Ad-hoc Study on Soldiers Calibration Procedure in Virtual Reality], VR, 2019
+- [Advancing Ethical Decision Making in Virtual Reality], VR, 2019
+- [Advertising perception with immersive virtual reality devices], VR, 2017
+- [AirwayVR: Learning Endotracheal Intubation in Virtual Reality], VR, 2018
+- [AirwayVR: Virtual Reality Trainer for Endotracheal Intubation], VR, 2019
+- [AirwayVR: Virtual Reality Trainer for Endotracheal Intubation-Design Considerations and Challenges], VR, 2019
+- [All are welcome: Using VR ethnography to explore harassment behavior in immersive social virtual reality], VR, 2017
+- [An Evaluation of Virtual Reality Maintenance Training for Industrial Hydraulic Machines], VR, 2022
+- [An improved augmented-reality method of inserting virtual objects into the scene with transparent objects], VR, 2022
+- [An In-Depth Exploration of the Effect of 2D/3D Views and Controller Types on First Person Shooter Games in Virtual Reality], ISMAR, 2020
+- [Analysing usability and presence of a virtual reality operating room (VOR) simulator during laparoscopic surgery training], VR, 2020
+- [Anatomy builder VR: Applying a constructive learning method in the virtual reality canine skeletal system], VR, 2017
+- [Angular Dependence of the Spatial Resolution in Virtual Reality Displays], VR, 2020
+- [AnimationVR - Interactive Controller-Based Animating in Virtual Reality], VR, 2018
+- [AnimationVR - Interactive Controller-Based Animating in Virtual Reality], VR, 2018
+- [Annotation vs. Virtual Tutor: Comparative Analysis on the Effectiveness of Visual Instructions in Immersive Virtual Reality], ISMAR, 2019
+- [Any &quot;Body&quot; There? Avatar Visibility Effects in a Virtual Reality Game], VR, 2018
+- [Applying Multi-User Virtual Reality to Collaborative Medical Training], VR, 2018
+- [Archaeological Excavation Simulation for Interaction in Virtual Reality], VR, 2019
+- [Architectural Design in Virtual Reality and Mixed Reality Environments: A Comparative Analysis], VR, 2019
+- [Asking ethical questions in research using immersive virtual and augmented reality technologies with children and youth], VR, 2017
+- [Asymetric telecollaboration in virtual reality], VR, 2017
+- [Audience Experiences of a Volumetric Virtual Reality Music Video], VR, 2022
+- [Audio Reproduction in Virtual Reality Cinemas - Position Paper], VR, 2019
+- [Auditory Feedback for Standing Balance Improvement in Virtual Reality], VR, 2022
+- [Augmented Chair: Exploring the Sittable Chair in Immersive Virtual Reality for Seamless Interaction], VR, 2019
+- [Augmented Reality-Based Personalized Virtual Operative Anatomy for Neurosurgical Guidance and Training], VR, 2018
+- [Augmenting Virtual Reality with Near Real World Objects], VR, 2019
+- [Automatic Generation of Diegetic Guidance in Cinematic Virtual Reality], ISMAR, 2020
+- [Automatic Generation of Interactive 3D Characters and Scenes for Virtual Reality from a Single-Viewpoint 360-Degree Video], VR, 2019
+- [Auto-Scaled Full Body Avatars for Virtual Reality: Facilitating Interactive Virtual Body Modification], VR, 2018
+- [Blending Shadows: Casting Shadows in Virtual and Real using Occlusion-Capable Augmented Reality Near-Eye Displays], ISMAR, 2021
+- [Body Warping Versus Change Blindness Remapping: A Comparison of Two Approaches to Repurposing Haptic Proxies for Virtual Reality], VR, 2022
+- [Body Weight Perception of Females using Photorealistic Avatars in Virtual and Augmented Reality], ISMAR, 2020
+- [Brain Activity in Virtual Reality: Assessing Signal Quality of High-Resolution EEG While Using Head-Mounted Displays], VR, 2019
+- [Can I Borrow Your ATM? Using Virtual Reality for (Simulated) In Situ Authentication Research], VR, 2022
+- [Catching a real ball in virtual reality], VR, 2017
+- [Cinematic virtual reality: Evaluating the effect of display type on the viewing experience for panoramic video], VR, 2017
+- [Cognitive psychology and human factors engineering of virtual reality], VR, 2017
+- [Collaborative and Competitive Futures for Virtual Reality Music and Sound], VR, 2019
+- [Collaborative Data Analytics Using Virtual Reality], VR, 2019
+- [CollaboVR: A Reconfigurable Framework for Creative Collaboration in Virtual Reality], ISMAR, 2020
+- [Combining Real-World Constraints on User Behavior with Deep Neural Networks for Virtual Reality (VR) Biometrics], VR, 2022
+- [Comparing Techniques for Visualizing Moving Out-of-View Objects in Head-mounted Virtual Reality], VR, 2019
+- [Comparing the Neuro-Physiological Effects of Cinematic Virtual Reality with 2D Monitors], VR, 2021
+- [Comparison in Depth Perception between Virtual Reality and Augmented Reality Systems], VR, 2019
+- [Coordinating attention and cooperation in multi-user virtual reality narratives], VR, 2017
+- [Coretet: A 21st Century Virtual Reality Musical Instrument for Solo and Networked Ensemble Performance], VR, 2019
+- [Creating a Stressful Decision Making Environment for Aerial Firefighter Training in Virtual Reality], VR, 2019
+- [CubeVR: Digital Affordances for Architecture Undergraduate Education using Virtual Reality], VR, 2019
+- [Cybersickness-Provoking Virtual Reality Alters Brain Signals of Persons with Multiple Sclerosis], VR, 2018
+- [Data fragment: Virtual reality for viewing and querying large image sets], VR, 2017
+- [Demo of the Matrix Has You: Realizing Slow Motion in Full-Body Virtual Reality], VR, 2018
+- [DepthMove: Hands-free Interaction in Virtual Reality Using Head Motions in the Depth Dimension], VR, 2019
+- [DepthMove: Leveraging Head Motions in the Depth Dimension to Interact with Virtual Reality Head-Worn Displays], ISMAR, 2019
+- [DepthText: Leveraging Head Movements towards the Depth Dimension for Hands-free Text Entry in Mobile Virtual Reality Systems], VR, 2019
+- [Design and Testing of a Virtual Reality Enabled Experience that Enhances Engagement and Simulates Empathy for Historical Events and Characters], VR, 2019
+- [Design of a Virtual Reality and Haptic Setup Linking Arousals to Training Scenarios: A Preliminary Stage], VR, 2018
+- [Design of collaborative 3D user interfaces for virtual and augmented reality], VR, 2017
+- [Designing intentional impossible spaces in virtual reality narratives: A case study], VR, 2017
+- [Detecting System Errors in Virtual Reality Using EEG Through Error-Related Potentials], VR, 2020
+- [Detection of Scaled Hand Interactions in Virtual Reality: The Effects of Motion Direction and Task Complexity], VR, 2020
+- [Determining Detection Thresholds for Fixed Positional Offsets for Virtual Hand Remapping in Virtual Reality], ISMAR, 2020
+- [Diegetic Tool Management in a Virtual Reality Training Simulation], VR, 2021
+- [Disambiguation Techniques for Freehand Object Manipulations in Virtual Reality], VR, 2020
+- [Distributed], VR, 2019
+- [Do You Notice Me? How Bystanders Affect the Cognitive Load in Virtual Reality], VR, 2022
+- [Early Virtual Reality User Experience and Usability Assessment of a Surgical Shape Memory Alloy Aspiration/Irrigation Instrument], VR, 2019
+- [Effect on high versus low fidelity haptic feedback in a virtual reality baseball simulation], VR, 2017
+- [Effects of Dark Mode Graphics on Visual Acuity and Fatigue with Virtual Reality Head-Mounted Displays], VR, 2020
+- [Effects of Field of View on Dynamic Out-of-View Target Search in Virtual Reality], VR, 2022
+- [Effects of Hand Representations for Typing in Virtual Reality], VR, 2018
+- [Effects of Image Size and Structural Complexity on Time and Precision of Hand Movements in Head Mounted Virtual Reality], VR, 2018
+- [Effects of Language Familiarity in Simulated Natural Dialogue with a Virtual Crowd of Digital Humans on Emotion Contagion in Virtual Reality], VR, 2021
+- [Effects of Stereoscopic Viewing and Haptic Feedback], VR, 2019
+- [Effects of Voluntary Heart Rate Control on User Engagement in Virtual Reality], VR, 2019
+- [Efficient Physics-Based Implementation for Realistic Hand-Object Interaction in Virtual Reality], VR, 2018
+- [Embodying an Extra Virtual Body in Augmented Reality], VR, 2019
+- [Empirically Evaluating the Effects of Perceptual Information Channels on the Size Perception of Tangibles in Near-Field Virtual Reality], VR, 2021
+- [Empowering Young Job Seekers with Virtual Reality], VR, 2019
+- [Enactive Approach to Assess Perceived Speed Error during Walking and Running in Virtual Reality], VR, 2019
+- [Encounter-Type Haptic Interfaces for Virtual Reality Musical Instruments], VR, 2018
+- [Engaging Participants during Selection Studies in Virtual Reality], VR, 2020
+- [ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality], VR, 2022
+- [Entropy of Controller Movements Reflects Mental Workload in Virtual Reality], VR, 2019
+- [Estimating Detection Thresholds for Desktop-Scale Hand Redirection in Virtual Reality], VR, 2019
+- [Evaluating Engagement Level and Analytical Support of Interactive Visualizations in Virtual Reality Environments], ISMAR, 2018
+- [Evaluating Perceptional Tasks for Medicine: A Comparative User Study Between a Virtual Reality and a Desktop Application], VR, 2022
+- [Evaluating the Effectiveness of Head-Mounted Display Virtual Reality (HMD VR) Environment on Students&apos; Learning for a Virtual Collaborative Engineering Assembly Task], VR, 2018
+- [Evaluating Virtual Reality Experiences Through Participant Choices], VR, 2020
+- [Evaluation of a Virtual Reality-based Baseball Batting Training System Using Instantaneous Bat Swing Information], VR, 2019
+- [Evaluation of Body-centric Locomotion with Different Transfer Functions in Virtual Reality], VR, 2021
+- [Evaluation of Information Widgets for a Virtual Reality Serious Game], VR, 2019
+- [Evaluation of Visual Perception Manipulation in Virtual Reality Training Environments to Improve Golf Performance], VR, 2019
+- [Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality], ISMAR, 2021
+- [Experiencing an Invisible World War I Battlefield Through Narrative-Driven Redirected Walking in Virtual Reality], VR, 2018
+- [Exploration of an EEG-Based Cognitively Adaptive Training System in Virtual Reality], VR, 2019
+- [Exploration of Hands-free Text Entry Techniques For Virtual Reality], ISMAR, 2020
+- [Explore the Weak Association between Flow and Performance Based on a Visual Search Task Paradigm in Virtual Reality], VR, 2019
+- [Exploring and Selecting Supershapes in Virtual Reality with Line], VR, 2022
+- [Exploring Effects of Screen-Fixed and World-Fixed Annotation on Navigation in Virtual Reality], VR, 2020
+- [Exploring Head-based Mode-Switching in Virtual Reality], ISMAR, 2021
+- [Exploring Input Approximations for Control Panels in Virtual Reality], VR, 2021
+- [Exploring the Usability of Nesplora Aquarium], VR, 2019
+- [Extended Abstract: Natural Human-Robot Interaction in Virtual Reality Telepresence Systems], VR, 2018
+- [Extending a User Involvement Tool with Virtual and Augmented Reality], VR, 2019
+- [Extracting Velocity-Based User-Tracking Features to Predict Learning Gains in a Virtual Reality Training Application], ISMAR, 2020
+- [Eye-Gaze Activity in Crowds: Impact of Virtual Reality and Density], VR, 2020
+- [Field of View and Forward Motion Discrimination in Virtual Reality], VR, 2019
+- [Flashpen: A High-Fidelity and High-Precision Multi-Surface Pen for Virtual Reality], VR, 2021
+- [Fluid VR: Extended Object Associations for Automatic Mode Switching in Virtual Reality], VR, 2018
+- [Foldable Spaces: An Overt Redirection Approach for Natural Walking in Virtual Reality], VR, 2022
+- [Freehand Grasping: An Analysis of Grasping for Docking Tasks in Virtual Reality], VR, 2021
+- [Gaze estimation based on head movements in virtual reality applications using deep learning], VR, 2017
+- [GazeDock: Gaze-Only Menu Selection in Virtual Reality using Auto-Triggering Peripheral Menu], VR, 2022
+- [Grasping objects in immersive Virtual Reality], VR, 2019
+- [Guided head rotation and amplified head rotation: Evaluating semi-natural travel and viewing techniques in virtual reality], VR, 2017
+- [Hand Tracking Interface for Virtual Reality Interaction Based on MARG sensors], VR, 2019
+- [Haptic Force Guided Sound Synthesis in Multisensory Virtual Reality (VR) Simulation for Rigid-Fluid Interaction], VR, 2019
+- [Haptic Handshank - A Handheld Multimodal Haptic Feedback Controller for Virtual Reality], ISMAR, 2020
+- [Head Up Visualization of Spatial Sound Sources in Virtual Reality for Deaf and Hard-of-Hearing People], VR, 2021
+- [Hearing with Eyes in Virtual Reality], VR, 2019
+- [High-definition wireless personal area tracking using AC magnetic field for virtual reality], VR, 2017
+- [High-Fidelity Interaction for Virtual and Augmented Reality], VR, 2018
+- [HIPS - A Virtual Reality Hip Prosthesis Implantation Simulator], VR, 2018
+- [Homing by triangle completion in consumer-oriented virtual reality environments], VR, 2019
+- [Human Identification Using Neural Network-Based Classification of Periodic Behaviors in Virtual Reality], VR, 2018
+- [Hybrid Mono-Stereo Rendering in Virtual Reality], VR, 2019
+- [I Got Your Point: An Investigation of Pointing Cues in a Spherical Fish Tank Virtual Reality Display], VR, 2019
+- [ICthroughVR: Illuminating Cataracts through Virtual Reality], VR, 2019
+- [Immersive EEG: Evaluating Electroencephalography in Virtual Reality], VR, 2019
+- [Immersive Exploration of OSGi-Based Software Systems in Virtual Reality], VR, 2018
+- [Immersive Job Taste: a Concept of Demonstrating Workplaces with Virtual Reality], VR, 2019
+- [Immersive Robot-Assisted Virtual Reality Therapy for Neurologically-Caused Gait Impairments], VR, 2018
+- [Immersive Virtual Reality and Gamification Within Procedurally Generated Environments to Increase Motivation During Gait Rehabilitation], VR, 2019
+- [Improve accessibility of virtual and augmented reality for people with balance impairments], VR, 2017
+- [Improving Obstacle Awareness to Enhance Interaction in Virtual Reality], VR, 2020
+- [Individual Differences in Embodied Distance Estimation in Virtual Reality], VR, 2019
+- [Influence of Interactivity and Social Environments on User Experience and Social Acceptability in Virtual Reality], VR, 2021
+- [Influence of Personality Traits and Body Awareness on the Sense of Embodiment in Virtual Reality], ISMAR, 2019
+- [Influence of Perspective on Dynamic Tasks in Virtual Reality], VR, 2020
+- [Information Placement in Virtual Reality], VR, 2019
+- [Interaction Techniques for Cinematic Virtual Reality], VR, 2019
+- [Introducing Mental Workload Assessment for the Design of Virtual Reality Training Scenarios], VR, 2020
+- [Inverse Virtual Reality: Intelligence-Driven Mutually Mirrored World], VR, 2018
+- [Investigating Bubble Mechanism for Ray-Casting to Improve 3D Target Acquisition in Virtual Reality], VR, 2020
+- [Investigating Cyclical Stereoscopy Effects Over Visual Discomfort and Fatigue in Virtual Reality While Learning], ISMAR, 2019
+- [Investigating Remote Tactile Feedback for Mid-Air Text-Entry in Virtual Reality], ISMAR, 2020
+- [Investigating Spherical Fish Tank Virtual Reality Displays for Establishing Realistic Eye-Contact], VR, 2019
+- [Investigating the Effects of Leading and Following Behaviors of Virtual Humans in Collaborative Fine Motor Tasks in Virtual Reality], VR, 2022
+- [Investigating the Reason for Increased Postural Instability in Virtual Reality for Persons with Balance Impairments], VR, 2018
+- [Investigating the Third Dimension for Authentication in Immersive Virtual Reality and in the Real World], VR, 2019
+- [Investigating Visualization Techniques for Observing a Group of Virtual Reality Users Using Augmented Reality], VR, 2019
+- [Investigation of Visual Self-Representation for a Walking-in-Place Navigation System in Virtual Reality], VR, 2019
+- [Itapeva 3D: Being Indiana Jones in virtual reality], VR, 2017
+- [Kantenbouki VR: A Virtual Reality Authoring Tool for Learning Localized Weather Reporting], VR, 2019
+- [Keynote Speaker is Clinical Virtual Reality Ready for Primetime], VR, 2018
+- [Keynote Speaker Virtual Reality and Visualization Research at Audi], VR, 2018
+- [Kicking in Virtual Reality: The Influence of Foot Visibility on the Shooting Experience and Accuracy], VR, 2022
+- [Larger Step Faster Speed: Investigating Gesture-Amplitude-based Locomotion in Place with Different Virtual Walking Speed in Virtual Reality], VR, 2021
+- [Lean into it: Exploring leaning-based motion cueing interfaces for virtual reality movement], VR, 2017
+- [Learning in the Field: Comparison of Desktop], VR, 2020
+- [Light Virtual Reality Systems for the Training of Conditionally Automated Vehicle Drivers], VR, 2018
+- [LiveDeep: Online Viewport Prediction for Live Virtual Reality Streaming Using Lifelong Deep Learning], VR, 2020
+- [Locomotion with Virtual Agents in the Realm of Social Virtual Reality], VR, 2018
+- [Lucid Virtual/Augmented Reality (LVAR) Integrated with an Endoskeletal Robot Suit: StillSuit: A new framework for cognitive and physical interventions to support the ageing society], VR, 2019
+- [Match the Cube: Investigation of the Head-coupled Input with a Spherical Fish Tank Virtual Reality Display], VR, 2019
+- [Measuring Cognitive Load and Insight: A Methodology Exemplified in a Virtual Reality Learning Context], ISMAR, 2019
+- [Measuring Human Trust in a Virtual Assistant using Physiological Sensing in Virtual Reality], VR, 2020
+- [Measuring the Perceived Three-Dimensional Location of Virtual Objects in Optical See-Through Augmented Reality], ISMAR, 2021
+- [Memory Task Performance Across Augmented and Virtual Reality], VR, 2018
+- [Mitigating Incorrect Perception of Distance in Virtual Reality through Personalized Rendering Manipulation], VR, 2019
+- [Mixed Reality Office System Based on Maslow&apos;s Hierarchy of Needs: Towards the Long-Term Immersion in Virtual Environments], ISMAR, 2019
+- [Model Retrieval by 3D Sketching in Immersive Virtual Reality], VR, 2018
+- [Motivation to Select Point of View in Cinematic Virtual Reality], VR, 2019
+- [Motor adaptation in response to scaling and diminished feedback in virtual reality], VR, 2017
+- [Movement Visualizer for Networked Virtual Reality Platforms], VR, 2018
+- [Multi-modal Spatial Object Localization in Virtual Reality for Deaf and Hard-of-Hearing People], VR, 2021
+- [Multi-Ray Jumping: Comprehensible Group Navigation for Collocated Users in Immersive Virtual Reality], VR, 2019
+- [Multisensory Virtual Reality Exposure Therapy], VR, 2018
+- [Navigation interfaces for virtual reality and gaming: Theory and practice], VR, 2017
+- [Networking Consumer Systems to Provide a Development Environment for Inside-Out Marker-Less Tracking for Virtual Reality Headsets], VR, 2019
+- [Neurophysiology of Visual-Motor Learning During a Simulated Marksmanship Task in Immersive Virtual Reality], VR, 2018
+- [NIVR: Neuro imaging in virtual reality], VR, 2017
+- [Notes on virtual and augmented reality (Keynote)], VR, 2017
+- [Novel View Synthesis with Multiple 360 Images for Large-Scale 6-DOF Virtual Reality System], VR, 2019
+- [Object Size Perception in Immersive Virtual Reality: Avatar Realism Affects the Way We Perceive], VR, 2018
+- [ObserVAR: Visualization System for Observing Virtual Reality Users using Augmented Reality], ISMAR, 2019
+- [Obstacle Avoidance Method in Real Space for Virtual Reality Immersion], ISMAR, 2018
+- [Occurrence of Pseudo-Haptics by Swimming in a Virtual Reality Environment], VR, 2019
+- [On exploring the mitigation of distance misperception in virtual reality], VR, 2017
+- [On Research Ethics and Representation in Virtual Reality], VR, 2019
+- [On Sharing Physical Geometric Space between Augmented and Virtual Reality Environments], VR, 2019
+- [Optical and Neural Properties of Vision as Applied to Virtual Reality], VR, 2019
+- [Optimization and Manipulation of Contextual Mutual Spaces for Multi-User Virtual and Augmented Reality Interaction], VR, 2020
+- [Passenger Anxiety when Seated in a Virtual Reality Self-Driving Car], VR, 2019
+- [PAVAL: Position-Aware Virtual Agent Locomotion for Assisted Virtual Reality Navigation], ISMAR, 2021
+- [Pen-based Interaction with Spreadsheets in Mobile Virtual Reality], ISMAR, 2020
+- [Perceived Space and Spatial Performance during Path-Integration Tasks in Consumer-Oriented Virtual Reality Environments], VR, 2019
+- [Perception of Multisensory Wind Representation in Virtual Reality], ISMAR, 2020
+- [Perception of Redirected Pointing Precision in Immersive Virtual Reality], VR, 2018
+- [Perceptual Study of Near-Field Binaural Audio Rendering in Six-Degrees-of-Freedom Virtual Reality], VR, 2019
+- [Performance Envelopes of Virtual Keyboard Text Input Strategies in Virtual Reality], ISMAR, 2019
+- [Peripersonal Visual-Haptic Size Estimation in Virtual Reality], VR, 2019
+- [Person Independent], VR, 2019
+- [Personal Perspective: Using Modified World Views to Overcome Real-Life Limitations in Virtual Reality], VR, 2018
+- [Personalized Personal Spaces for Virtual Reality], VR, 2019
+- [PhantomLegs: Reducing Virtual Reality Sickness Using Head-Worn Haptic Devices], VR, 2019
+- [Phase-Aligned Foveated Rendering for Virtual Reality Headsets], VR, 2018
+- [Precise and realistic grasping and manipulation in Virtual Reality without force feedback], VR, 2020
+- [Predicting Performance During a Dynamic Target Acquisition Task in Immersive Virtual Reality], VR, 2018
+- [Prediction of Discomfort due to Egomotion in Immersive Videos for Virtual Reality], ISMAR, 2019
+- [Project Butterfly: Synergizing Immersive Virtual Reality with Actuated Soft Exosuit for Upper-Extremity Rehabilitation], VR, 2019
+- [Promoting Reality Awareness in Virtual Reality through Proxemics], VR, 2021
+- [PseudoJumpOn: Jumping onto Steps in Virtual Reality], VR, 2022
+- [Rapid creation of photorealistic virtual reality content with consumer depth cameras], VR, 2017
+- [Rapid], VR, 2018
+- [Real-Time 3D Face Reconstruction and Gaze Tracking for Virtual Reality], VR, 2018
+- [Real-Time Panoramic Depth Maps from Omni-directional Stereo Images for 6 DoF Videos in Virtual Reality], VR, 2019
+- [Redirected Jumping: Imperceptibly Manipulating Jump Motions in Virtual Reality], VR, 2019
+- [RedirectedDoors: Redirection While Opening Doors in Virtual Reality], VR, 2022
+- [REINVENT: A low-cost], VR, 2017
+- [RelivelnVR: Capturing and Reliving Virtual Reality Experiences Together], VR, 2019
+- [Remapping a Third Arm in Virtual Reality], VR, 2019
+- [Research Trends in Virtual Reality Locomotion Techniques], VR, 2022
+- [Resolution-defined projections for virtual reality video compression], VR, 2017
+- [RetroTracker: Upgrading Existing Virtual Reality Tracking Systems], VR, 2019
+- [Revisiting Distance Perception with Scaled Embodied Cues in Social Virtual Reality], VR, 2021
+- [Revisiting Jean Louis Baudry&apos;s Concept of the Ideological Apparatus: Linking Virtual Reality to The Dream Analogy], VR, 2019
+- [Revisiting Virtual Reality for Practical Use in Therapy: Patient Satisfaction in Outpatient Rehabilitation], VR, 2019
+- [Robot Supported Virtual and Augmented Reality], VR, 2018
+- [Rock or Roll - Locomotion Techniques with a Handheld Spherical Device in Virtual Reality], ISMAR, 2020
+- [Seamless, Bi-directional Transitions along the Reality-Virtuality Continuum: A Conceptualization and Prototype Exploration], ISMAR, 2020
+- [Selection and Manipulation Whole-Body Gesture Elicitation Study in Virtual Reality], VR, 2019
+- [Selection and Manipulation Whole-Body Gesture Elicitation Study In Virtual Reality], VR, 2019
+- [Shooter Bias and Socioeconomic Status in Virtual Reality], VR, 2019
+- [Shopping in Virtual Reality], VR, 2018
+- [Simulating a Futuristic Fire Pump Panel in Virtual Reality], VR, 2019
+- [Simulating anthropomorphic upper body actions in virtual reality using head and hand motion data], VR, 2017
+- [Smart Adaptation of BIM for Virtual Reality], VR, 2018
+- [Smart Choices for Deviceless and Device-Based Manipulation in Immersive Virtual Reality], VR, 2018
+- [Social Presence and Cooperation in Large-Scale Multi-User Virtual Reality - The Relevance of Social Interdependence for Location-Based Environments], VR, 2018
+- [Social Skills Training Tool in Virtual Reality], VR, 2019
+- [Sound design in virtual reality concert experiences using a wave field synthesis approach], VR, 2017
+- [Spatial Updating in Virtual Reality - Auditory and Visual Cues in a Cave Automatic Virtual Environment], VR, 2022
+- [Spherical World in Miniature: Exploring the Tiny Planets Metaphor for Discrete Locomotion in Virtual Reality], VR, 2021
+- [StuckInSpace: Exploring the Difference Between Two Different Mediums of Play in a Multi-Modal Virtual Reality Game], VR, 2021
+- [Studying Gaze Behaviour during Collision Avoidance with a Virtual Walker: Influence of the Virtual Reality Setup], VR, 2019
+- [Studying the Inter-Relation Between Locomotion Techniques and Embodiment in Virtual Reality], ISMAR, 2020
+- [Supporting Iterative Virtual Reality Analytics Design and Evaluation by Systematic Generation of Surrogate Clustered Datasets], ISMAR, 2021
+- [Supporting Playful Rehabilitation in the Home using Virtual Reality Headsets and Force Feedback Gloves], VR, 2022
+- [Symmetrical Reality: Toward a Unified Framework for Physical and Virtual Reality], VR, 2019
+- [Synthesizing Personalized Training Programs for Improving Driving Habits via Virtual Reality], VR, 2018
+- [Take a Look Around - The Impact of Decoupling Gaze and Travel-direction in Seated and Ground-based Virtual Reality Utilizing Torso-directed Steering], VR, 2020
+- [Tangi: Tangible Proxies For Embodied Object Exploration And Manipulation In Virtual Reality], ISMAR, 2020
+- [Tangiball: Foot-Enabled Embodied Tangible Interaction with a Ball in Virtual Reality], VR, 2022
+- [TapID: Rapid Touch Interaction in Virtual Reality using Wearable Sensing], VR, 2021
+- [Teachers&apos; Views on how to use Virtual Reality to Instruct Children and Adolescents Diagnosed with Autism Spectrum Disorder], VR, 2019
+- [Temporal Effects in Motion Behavior for Virtual Reality (VR) Biometrics], VR, 2022
+- [Text Entry in Immersive Head-Mounted Display-Based Virtual Reality Using Standard Keyboards], VR, 2018
+- [The 2018 VGTC Virtual Reality Career Award], VR, 2018
+- [The 2018 VGTC Virtual Reality Technical Achievement Award], VR, 2018
+- [The Cognitive Load and Usability of Three Walking Metaphors for Consumer Virtual Reality], ISMAR, 2020
+- [The Collaborative Virtual Reality Neurorobotics Lab], VR, 2019
+- [The Effect of Feedback on Estimates of Reaching Ability in Virtual Reality], VR, 2021
+- [The effect of geometric realism on presence in a virtual reality game], VR, 2017
+- [The Effect of Hanger Reflex on Virtual Reality Redirected Walking], VR, 2019
+- [The Effect of Pitch in Auditory Error Feedback for Fitts&apos; Tasks in Virtual Reality Training Systems], VR, 2021
+- [The Effects of Cognitive Load on Engagement in a Virtual Reality Learning Environment], VR, 2021
+- [The Effects of Olfactory Stimulation and Active Participation on Food Cravings in Virtual Reality], VR, 2018
+- [The Effects of Stereopsis and Immersion on Bimanual Assembly Tasks in a Virtual Reality System], VR, 2019
+- [The Embodiment of Photorealistic Avatars Influences Female Body Weight Perception in Virtual Reality], VR, 2021
+- [The Impact of an Accurate Vertical Localization with HRTFs on Short Explorations of Immersive Virtual Reality Scenarios], ISMAR, 2018
+- [The Impact of Avatar Appearance], VR, 2021
+- [The impact of transitions on user experience in virtual reality], VR, 2017
+- [The Impact of Virtual Reality and Viewpoints in Body Motion Based Drone Teleoperation], VR, 2021
+- [The Influence of Body Position on Presence When Playing a Virtual Reality Game], VR, 2019
+- [The Passenger Experience of Mixed Reality Virtual Display Layouts in Airplane Environments], ISMAR, 2021
+- [The Self-Avatar Follower Effect in Virtual Reality], VR, 2020
+- [The Stare-in-the-Crowd Effect in Virtual Reality], VR, 2022
+- [ThermAirGlove: A Pneumatic Glove for Thermal Perception and Material Identification in Virtual Reality], VR, 2020
+- [Think Twice: The Influence of Immersion on Decision Making during Gambling in Virtual Reality], VR, 2020
+- [Three Haptic Shape-Feedback Controllers for Virtual Reality], VR, 2018
+- [Touch the Wall: Comparison of Virtual and Augmented Reality with Conventional 2D Screen Eye-Hand Coordination Training Systems], VR, 2020
+- [Toward Virtual Reality-based Evaluation of Robot Navigation among People], VR, 2020
+- [Towards a Framework for Composition Design for Music-Led Virtual Reality Experiences], VR, 2019
+- [Towards an Affordable Virtual Reality Solution for Cardiopulmonary Resuscitation Training], VR, 2019
+- [Towards Gamified Alcohol Use Disorder Therapy in Virtual Reality: A Preliminary Usability Study], VR, 2019
+- [Towards Robot Arm Training in Virtual Reality Using Partial Least Squares Regression], VR, 2019
+- [Towards usable underwater virtual reality systems], VR, 2017
+- [Towards Utilizing Touch-sensitive Physical Keyboards for Text Entry in Virtual Reality], VR, 2019
+- [Training Transfer of Bimanual Assembly Tasks in Cost-Differentiated Virtual Reality Systems], VR, 2019
+- [Transferability of Spatial Maps: Augmented Versus Virtual Reality Training], VR, 2018
+- [Unscripted Retargeting: Reach Prediction for Haptic Retargeting in Virtual Reality], VR, 2021
+- [Use of Virtual Reality to Teach Teamwork and Patient Safety in Surgical Education], VR, 2018
+- [Using Culturally Responsive Narratives in Virtual Reality To Influence Cognition and Self Efficacy], VR, 2019
+- [Using Cybersickness Indicators to Adapt Navigation in Virtual Reality: A Pre-Study], VR, 2018
+- [Using Siamese Neural Networks to Perform Cross-System Behavioral Authentication in Virtual Reality], VR, 2021
+- [Using Trajectory Compression Rate to Predict Changes in Cybersickness in Virtual Reality Games], ISMAR, 2021
+- [Using Virtual Reality to Support Acting in Motion Capture with Differently Scaled Characters], VR, 2021
+- [Validating Virtual Reality as an Effective Training Medium in the Security Domain], VR, 2019
+- [Video Content Representation to Support the Hyper-reality Experience in Virtual Reality], VR, 2021
+- [View-aware tile-based adaptations in 360 virtual reality video streaming], VR, 2017
+- [Virtual Agent Positioning Driven by Scene Semantics in Mixed Reality], VR, 2019
+- [Virtual Big Heads: Analysis of Human Perception and Comfort of Head Scales in Social Virtual Reality], VR, 2020
+- [Virtual Morality: Using Virtual Reality to Study Moral Behavior in Extreme Accident Situations], VR, 2021
+- [Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality], VR, 2019
+- [Virtual Reality and Photogrammetry for Improved Reproducibility of Human-Robot Interaction Studies], VR, 2019
+- [Virtual reality based training: Evaluation of user performance by capturing upper limb motion], VR, 2017
+- [Virtual Reality for Deeper Learning: An Exemplar from High School Science], VR, 2019
+- [Virtual Reality for Virtual Commissioning of Automated Guided Vehicles], VR, 2019
+- [Virtual Reality Instruction Followed by Enactment Can Increase Procedural Knowledge in a Science Lesson], VR, 2019
+- [Virtual Reality Observations: Using Virtual Reality to Augment Lab-Based Shoulder Surfing Research], VR, 2022
+- [Virtual Reality Public Speaking Training: Experimental Evaluation of Direct Feedback Technology Acceptance], VR, 2021
+- [Virtual Reality Racket Sports: Virtual Drills for Exercise and Training], ISMAR, 2020
+- [Virtual reality sickness detection: an approach based on physiological signals and machine learning], ISMAR, 2020
+- [Virtual Reality Synthesis of Robotic Systems for Human Upper-Limb and Hand Tasks], VR, 2019
+- [Virtual reality to save endangered animals: Many eyes on the wild], VR, 2017
+- [Virtual Reality Training with Passive Haptic Feedback for CryoEM Sample Preparation], VR, 2019
+- [Virtual Reality Video Game Paired with Physical Monocular Blurring as Accessible Therapy for Amblyopia], VR, 2019
+- [Virtual Reality Wound Care Training for Clinical Nursing Education: An Initial User Study], VR, 2019
+- [Virtual Workspace Positioning Techniques during Teleportation for Co-located Collaboration in Virtual Reality using HMDs], VR, 2022
+- [Virtual-GymvR: A Virtual Reality Platform for Personalized Exergames], VR, 2019
+- [Visual Fidelity Effects on Expressive Self-avatar in Virtual Reality: First Impressions Matter], VR, 2022
+- [Visual Stimulus Disrupts the Spatial Localization of a Tactile Sensation in Virtual Reality], VR, 2019
+- [Visualizing Ecological Data in Virtual Reality], VR, 2019
+- [Visualizing Natural Environments from Data in Virtual Reality: Combining Realism and Uncertainty], VR, 2019
+- [VRAIN: Virtual reality assisted intervention for neuroimaging], VR, 2017
+- [VRLearner: A Virtual Reality Based Assessment Tool in Higher Education], VR, 2019
+- [VROnSite: Towards immersive training of first responder squad leaders in untethered virtual reality], VR, 2017
+- [Walking and Teleportation in Wide-area Virtual Reality Experiences], ISMAR, 2020
+- [Walking Your Virtual Dog: Analysis of Awareness and Proxemics with Simulated Support Animals in Augmented Reality], ISMAR, 2019
+- [Watching Videos Together in Social Virtual Reality: An Experimental Study on User&apos;s QoE], VR, 2019
+- [Water Flow Measurement Technology Assessing Spatial User Interaction in an Underwater Immersive Virtual Reality Environment], VR, 2018
+- [Who Are Virtual Reality Headset Owners? A Survey and Comparison of Headset Owners and Non-Owners], VR, 2021
+- [WoaH: A Virtual Reality Work-at-Height Simulator], VR, 2018
 
 
 ## Mixed Reality
